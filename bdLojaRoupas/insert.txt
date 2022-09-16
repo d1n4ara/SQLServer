@@ -1,0 +1,35 @@
+USE bdLojasRoupas
+
+INSERT IBTO tbFabricante(nomeFabricante)
+VALUES('Malwee')
+	, ('Marisol')
+	, ('Cia da Malha')
+
+SELEC * FROM tbFunc
+
+INSERT INTO tbFunc (nomeFunc,idadeFunc, dataAdmissao, salarioFunc)
+VALUES 
+	('Mackenzie Cavalcante',28 ,'20/05/2000', 1306.20)
+	, ('Victoria Mizael',25 ,'14/10/2005', 2050.50)
+
+INSERT INTO tbCliente (nomeCliente,idadeCliente)
+VALUES 
+	('Regiane', 46)
+	, ('Mayara', 30)
+	, ('Adam Luz',25)
+	, ('Helena', 20)
+	, ('Luna', 19)
+
+INSERT INTO tbVendedor (nomeVendedor)
+VALUES 
+	('João Santos')
+	, ('Raquel Torres')
+
+INSERT INTO tbFunc (nomeProduto, precoProduto, dataEntradaProduto, estoqueProduto, idFunc, idFabricante)
+VALUES 
+	('')
+	, ('')
+	, ('')
+
+
+
