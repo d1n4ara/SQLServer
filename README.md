@@ -1,2 +1,2 @@
 # bancoDeDados
-Aqui estará todos os meus banco de dados
+Este repositorio e destinado a banco de dados.
