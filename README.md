@@ -1,2 +1,2 @@
 # bancoDeDados
-Este repositorio e destinado a banco de dados.
+Este repositorio e destinadoao exercicios de banco de dados.
